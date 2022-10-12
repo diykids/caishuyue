@@ -23,7 +23,7 @@ color = 'linen'
 #  instagram = 'nan.xiaobei'
 
 avatar = 'https://static.fifsky.com/shuyue/images/avatar.png'
-name = "Shuyue's Blog"
+name = "Shuyue Cai"
 bio = 'Every day have progress, smiling face every day.'
 
 # ------------------------------
@@ -42,9 +42,9 @@ name = "About"
 url = "/about/"
 weight = 10
 [[menu.main]]
-identifier = "contact"
-name = "Contact"
-url = "/contact/"
+identifier = "sister"
+name = "My sister"
+url = "https://caishuyan.com"
 weight = 10
 
 [taxonomies]
