@@ -23,7 +23,7 @@ jobs:
       - name: Build
         run: | 
           hugo --minify
-          echo "caishuyan.com" > ./public/CNAME
+          echo "caishuyue.com" > ./public/CNAME
 
       - name: Upload to oss
         id: upload_to_oss
